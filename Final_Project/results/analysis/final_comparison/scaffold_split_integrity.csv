@@ -1,0 +1,7 @@
+split,seed,n_train,n_test,row_overlap,exact_smiles_overlap,shared_scaffolds,test_molecules_sharing_scaffold,test_scaffold_overlap_fraction,train_duplicates,test_duplicates,unassigned_rows
+random,0,5511,690,0,0,148,612,0.8869565217391304,0,0,688
+random,1,5511,690,0,0,138,608,0.881159420289855,0,0,688
+random,2,5511,690,0,0,146,620,0.8985507246376812,0,0,688
+scaffold,0,5511,690,0,0,0,0,0.0,0,0,688
+scaffold,1,5511,690,0,0,0,0,0.0,0,0,688
+scaffold,2,5511,690,0,0,0,0,0.0,0,0,688

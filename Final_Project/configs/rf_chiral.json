@@ -1,0 +1,16 @@
+{
+  "dataset": "data/processed/clean.csv",
+  "target": "PAMPA_clipped",
+  "radius": 2,
+  "fingerprint_bits": 2048,
+  "n_estimators": [
+    300,
+    600
+  ],
+  "min_samples_leaf": [
+    1,
+    3
+  ],
+  "n_jobs": 4,
+  "include_chirality": true
+}

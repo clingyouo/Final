@@ -1,0 +1,33 @@
+{
+  "dataset_version": "clean-v1-2026-11-04",
+  "dataset_path": "data/processed/clean.csv",
+  "dataset_sha256": "e13ac708fd375e656cac445c289ba76af110dbbba4cba58b9905634418f648b4",
+  "target_field": "PAMPA_clipped",
+  "raw_target_field": "PAMPA_raw",
+  "split_kind": "random",
+  "seed": 1,
+  "algorithm": "numpy.default_rng.permutation",
+  "requested_ratio": [
+    0.8,
+    0.1,
+    0.1
+  ],
+  "actual_counts": {
+    "train": 5511,
+    "val": 688,
+    "test": 690
+  },
+  "actual_ratio": {
+    "train": 0.7999709682101902,
+    "val": 0.0998693569458557,
+    "test": 0.10015967484395413
+  },
+  "largest_scaffold_count": 1101,
+  "largest_scaffold_set": "not_grouped",
+  "index_definition": "zero-based row index in clean.csv after header; no augmentation before split",
+  "leakage_checks": {
+    "sample_disjoint": true,
+    "complete_coverage": true,
+    "scaffold_disjoint": false
+  }
+}

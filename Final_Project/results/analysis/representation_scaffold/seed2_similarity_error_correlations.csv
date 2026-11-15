@@ -1,0 +1,13 @@
+model,fingerprint,group,n,spearman_rho
+rf,Morgan_achiral,all,690,-0.18527422745874542
+rf,Morgan_achiral,without_flagged,683,-0.1694722912058005
+rf,Morgan_chiral,all,690,-0.14871570115378882
+rf,Morgan_chiral,without_flagged,683,-0.13234058599140902
+xgboost,Morgan_achiral,all,690,-0.15768953509557257
+xgboost,Morgan_achiral,without_flagged,683,-0.13532975292889698
+xgboost,Morgan_chiral,all,690,-0.12861017443318348
+xgboost,Morgan_chiral,without_flagged,683,-0.10497424691912584
+chemprop,Morgan_achiral,all,690,-0.12752491950703926
+chemprop,Morgan_achiral,without_flagged,683,-0.10040919371089971
+chemprop,Morgan_chiral,all,690,-0.14425673568396555
+chemprop,Morgan_chiral,without_flagged,683,-0.11767434434753074

@@ -1,0 +1,9 @@
+split,seed,row_index,Source,PAMPA_clipped,present_in_evaluation
+random,1,6792,2018_Lee,-5.28,True
+scaffold,2,6790,2018_Lee,-5.32,True
+scaffold,2,6791,2018_Lee,-5.27,True
+scaffold,2,6792,2018_Lee,-5.28,True
+scaffold,2,6793,2018_Lee,-5.29,True
+scaffold,2,6794,2018_Lee,-5.22,True
+scaffold,2,6798,2018_Buckton,-5.27,True
+scaffold,2,6879,2018_Lee,-5.52,True

@@ -1,0 +1,7 @@
+split,seed,total_rows,assigned_rows,missing_rows,extra_rows
+random,0,6889,6889,0,0
+random,1,6889,6889,0,0
+random,2,6889,6889,0,0
+scaffold,0,6889,6889,0,0
+scaffold,1,6889,6889,0,0
+scaffold,2,6889,6889,0,0

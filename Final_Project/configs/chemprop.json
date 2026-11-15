@@ -1,0 +1,11 @@
+{
+  "dataset": "data/processed/clean.csv",
+  "target": "PAMPA_clipped",
+  "implementation": "Chemprop 2.3.x BondMessagePassing D-MPNN",
+  "batch_size": 32,
+  "num_workers": 0,
+  "max_epochs": 100,
+  "patience": 15,
+  "accelerator": "gpu",
+  "deterministic": true
+}
